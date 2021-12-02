@@ -1,82 +1,20 @@
-Contribution: 2021-01-10 20:00
+## DammyTalker
+### Description
+DammyTalker is a short game about sharply dressed demon girls.
 
-Contribution: 2021-01-10 20:01
-
-Contribution: 2021-01-11 20:00
-
-Contribution: 2021-01-11 20:01
-
-Contribution: 2021-01-12 20:00
-
-Contribution: 2021-01-12 20:01
-
-Contribution: 2021-01-12 20:02
-
-Contribution: 2021-01-12 20:03
-
-Contribution: 2021-01-12 20:04
-
-Contribution: 2021-01-13 20:00
-
-Contribution: 2021-01-13 20:01
-
-Contribution: 2021-01-14 20:00
-
-Contribution: 2021-01-14 20:01
-
-Contribution: 2021-01-16 20:00
-
-Contribution: 2021-01-16 20:01
-
-Contribution: 2021-01-16 20:02
-
-Contribution: 2021-01-16 20:03
-
-Contribution: 2021-01-16 20:04
-
-Contribution: 2021-01-19 20:00
-
-Contribution: 2021-01-19 20:01
-
-Contribution: 2021-01-19 20:02
-
-Contribution: 2021-01-19 20:03
-
-Contribution: 2021-01-19 20:04
-
-Contribution: 2021-01-20 20:00
-
-Contribution: 2021-01-20 20:01
-
-Contribution: 2021-01-20 20:02
-
-Contribution: 2021-01-21 20:00
-
-Contribution: 2021-01-22 20:00
-
-Contribution: 2021-01-22 20:01
-
-Contribution: 2021-01-22 20:02
-
-Contribution: 2021-01-24 20:00
-
-Contribution: 2021-01-24 20:01
-
-Contribution: 2021-01-24 20:02
-
-Contribution: 2021-01-24 20:03
-
-Contribution: 2021-01-25 20:00
-
-Contribution: 2021-01-25 20:01
-
-Contribution: 2021-01-25 20:02
-
-Contribution: 2021-01-26 20:00
-
-Contribution: 2021-01-26 20:01
-
-Contribution: 2021-01-26 20:02
-
-Contribution: 2021-01-26 20:03
-
+### Languages
+| Languages | TAGS | Support |
+| -- | -- | -- |
+| English | en-US | OK |
+| Spanish | ES | OK |
+| Japanese | JA | OK |
+| French| FR | NO |
+| German | DE | NO |
+| Italian | IT | OK |
+| Dutch | NL | NO |
+| Canadian french | fr-CA | NO |
+| Portuguese | PT | NO |
+| Brazilian Portuguese | pt-BR | Ok |
+| Russian | RU | OK |
+| Traditional Chinese | zh-Hant | NO |
+| Simplified Chinese | zh-Hans | OK |
